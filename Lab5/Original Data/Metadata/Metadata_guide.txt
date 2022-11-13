@@ -1,0 +1,12 @@
+Original data drinks.csv is available in /OriginalData folder. It's also copied to /AnalysisData. 
+
+Original data file was first downloaded on Nov 4th 2022 from https://github.com/KAIR-ISZ/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets.
+
+Original data file headers:
+** country - string
+** beer_servings - int, info about number of beer servings per person per year in each country
+** spirit_servings - int, info about number of spirit servings per person per year in each country
+** wine_servings - int, info about number of wine servings per person per year in each country
+** total_liters_of_pure_alcohol - float, info about numer of liters of all kinds of alcohol consumed per person per year in each country
+
+Additional information about topic: https://fivethirtyeight.com/features/dear-mona-followup-where-do-people-drink-the-most-beer-wine-and-spirits/
