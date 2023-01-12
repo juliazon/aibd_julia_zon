@@ -1,0 +1,18 @@
+ZADANIE 1.
+W tabeli nyc_streets znajduje się 19091 rekordów.
+
+ZADANIE 2.
+17099 ulic w Nowym Jorku ma nazwy zaczynające się na "B", "Q" i "M".
+
+ZADANIE 3.
+Populacja miasta Nowy Jork wynosi 8175032.
+
+ZADANIE 4.
+Populacja Bronxu, Manhattanu i Queens 5201602.
+
+ZADANIE 5.
+Liczba dzielnic Bronxu: 240
+Liczba dzielnic Manhattanu: 28
+Liczba dzielnic Staten Island: 24
+Liczba dzielnic Brooklynu: 23
+Liczba dzielnic Queens: 30
